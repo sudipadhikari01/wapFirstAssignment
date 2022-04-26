@@ -1,0 +1,17 @@
+#image-bac{
+    background-image: url("image/backgound-img.jpg");
+    height: 200;
+    width: 200;
+}
+#prof-img{
+    border-radius: 50%;
+}
+
+.content{
+    background-color: aliceblue;
+}
+
+.footer{
+    margin-top: 140px;
+    background-color: darkgrey;
+}
